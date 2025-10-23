@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+tpfs/node_modules/
+tpfsAPP/node_modules/
+
+# Vite build output
+dist/
+tpfs/dist/
+tpfsAPP/dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editor files
+.vscode/
+.DS_Store
